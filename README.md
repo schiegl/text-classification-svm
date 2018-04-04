@@ -3,9 +3,12 @@
 **Paper:** Text Categorization with Support Vector Machines: Learning with Many Relevant Features<br>
 **Source:** https://dl.acm.org/citation.cfm?id=649721
 
-The paper suggests the suitability of Support Vector Machines for text classification purposes. In this jupyter notebook I tried to reproduce the results obtained in the paper.
+The paper suggests the suitability of Support Vector Machines for text classification purposes. In this jupyter notebook I tried to reproduce the results obtained in the paper. Here is a small sample from the notebook:
 
-![Distribution of F1 scores](results_hist.png)
+<p align="center">
+  <img alt="F1-Scores" src ="results_hist.png" /><br>
+  F1-Scores from reproduction
+</p>
 
 **Datasets:**
 - Reuters: http://disi.unitn.it/moschitti/corpora/Reuters21578-Apte-90Cat.tar.gz     
